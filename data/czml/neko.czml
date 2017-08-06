@@ -1,13 +1,13 @@
 [
     {
         "id": "document",
-        "name": "neko",
+        "name": "Hotel",
         "version": "1.0"
     },
     {
-        "id": "neko1",
+        "id": "Hotel1",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "Hotel",
         "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -34,8 +34,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.65632777778,
-                35.481038888889,
+                139.758915,
+                35.672386,
                 3999
             ]
         },
@@ -65,7 +65,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ホテル"
+            "text": "帝国ホテル"
         },
         "polyline": {
             "width": 1,
