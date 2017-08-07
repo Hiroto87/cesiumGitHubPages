@@ -19,7 +19,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "http://furuhashilab.com/temp/Hiroto87.png",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/Hiroto87_t.png",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -34,8 +34,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.758915,
-                35.672386,
+                138.65632777778,
+                35.481038888889,
                 3999
             ]
         },
@@ -65,7 +65,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "帝国ホテル"
+            "text": "ホテル"
         },
         "polyline": {
             "width": 1,
