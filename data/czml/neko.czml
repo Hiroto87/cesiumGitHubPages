@@ -65,7 +65,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ホテル"
+            "text": "帝国ホテル"
         },
         "polyline": {
             "width": 1,
@@ -154,7 +154,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "ホテルニューオータニ"
         },
         "polyline": {
             "width": 1,
@@ -243,7 +243,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "ホテルオークラ"
         },
         "polyline": {
             "width": 1,
@@ -332,7 +332,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "パークハイアット東京"
         },
         "polyline": {
             "width": 1,
@@ -421,7 +421,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "ウェスティンホテル東京"
         },
         "polyline": {
             "width": 1,
